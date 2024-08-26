@@ -26,6 +26,12 @@ Here's a walkthrough of implemented features:
 ![preworkgif-ezgif com-optimize](https://github.com/user-attachments/assets/d8491bec-4ce2-4299-ae52-052c16330dfc)
 
 
+This is lower quality, but it will show the Feature 4 which is about the buttons functionality 
+![prework1](https://github.com/user-attachments/assets/bfe2f43c-3a58-4139-b716-80068e8f32df)
+
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with licecap 
 <!-- Recommended tools:
